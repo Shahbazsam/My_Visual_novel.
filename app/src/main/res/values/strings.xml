@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">My Visual novel</string>
+    <string name="Button">Start</string>
+    <string name="Button_content_descriptio">button</string>
+    <string name="inner_content_description">Accept</string>
+    <string name="page1_text">My Visual Novel</string>
+    <string name="page1_Clickable5">Start</string>
+
+
+    <string name="page2_text">Hello! My name is Jack. And you?</string>
+    <string name="page2_Clickable4">Accept</string>
+
+
+
+    <string name="page3_text">Great, ${text} What we are going to do?</string>
+    <string name="page3_Clickable1">Walking</string>
+    <string name="page3_Clickable2">Hiking</string>
+    <string name="page3_Clickable3">Go To Field</string>
+    <string name="page3_ContentDescription">image</string>
+
+    <string name="page4_text">May be, go home?</string>
+    <string name="page4_Clickable2">Yes, and watch the film</string>
+    <string name="page4_Clickable3">Yes, and celebrate the Halloween</string>
+    <string name="page4_ContentDescription">image</string>
+
+    <string name="page5_text">How cozy... But it’s already getting dark...</string>
+    <string name="page5_Clickable2">Go home and watch the film</string>
+    <string name="page5_Clickable3">Go home and celebrate Halloween</string>
+    <string name="page5_ContentDescription">image</string>
+
+    <string name="page6_text">You are sad... Let’s go home?</string>
+    <string name="page6_Clickable2">May be, let’s watch the film?</string>
+    <string name="page6_Clickable3">Yes, let’s celebrate the Halloween</string>
+    <string name="page6_ContentDescription">image</string>
+
+    <string name="page7_text">Do you like this film?</string>
+    <string name="page7_Clickable2">I like it!</string>
+    <string name="page7_Clickable3">No...</string>
+    <string name="page7_ContentDescription">image</string>
+
+    <string name="page8_text">Very beautiful!</string>
+    <string name="page8_Clickable2">Yes! Let’s watch the film!</string>
+    <string name="page8_Clickable3">Yes! Let’s create costume!</string>
+    <string name="page8_ContentDescription">image</string>
+
+    <string name="page9_text">Great! It’s time to sleep...</string>
+    <string name="page9_Clickable2">Yes, it’s too late...</string>
+    <string name="page9_ContentDescription">image</string>
+
+    <string name="page10_text">May be go sleep?</string>
+    <string name="page10_Clickable2">Yes, it’s too late...</string>
+    <string name="page10_ContentDescription">image</string>
+
+    <string name="page11_text">I like your costume.</string>
+    <string name="page11_Clickable2">Your costume is beautiful too!</string>
+    <string name="page11_Clickable3">To tell you the truth, I don’t like your...</string>
+    <string name="page11_ContentDescription">image</string>
+
+    <string name="page12_text">Thank you! Let’s go to sleep.</string>
+    <string name="page12_Clickable2">Yes, it’s too late...</string>
+    <string name="page12_ContentDescription">image</string>
+
+    <string name="page13_text">It’s ok, i’m not taking offence. Let’s go to sleep!</string>
+    <string name="page13_Clickable2">Yes, it’s too late...</string>
+    <string name="page13_ContentDescription">image</string>
+
+    <string name="page14_Clickable2">Repeat the game</string>
+    <string name="page14_text">Thank You For Playing!</string>
+
+    <string name="hiking">Hiking</string>
+    <string name="go_to_the_field">Go to the field</string>
+    <string name="walking">Walking</string>
+    <string name="accept">Accept</string>
+    <string name="input_your_name">Input your name...</string>
+
+
+</resources>
